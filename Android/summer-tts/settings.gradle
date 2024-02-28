@@ -1,0 +1,5 @@
+include ':app'
+include ':dynamic_so_test'
+include ':module_dynamic'
+include ':testTTS'
+include ':testTTSS'
